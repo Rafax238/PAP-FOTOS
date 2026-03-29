@@ -145,21 +145,17 @@ O **Cidadão+** é uma plataforma web inovadora concebida para estreitar a liga�
 <table border="0">
   <tr>
     <td width="33.3%" align="center" valign="top">
-      <img src="" width="100%" style="border-radius:8px;">
-      <p><b>19. Localidades</b><br><sub>Gestão geográfica.</sub></p>
-    </td>
-    <td width="33.3%" align="center" valign="top">
-      <img src="" width="100%" style="border-radius:8px;">
+      <img src="https://media.discordapp.net/attachments/1487605066327130332/1487617034316415036/21.png?ex=69c9cad3&is=69c87953&hm=0ba2ef9ff5a516dcb9796b90aa85ef1a50604e32c66ca2ea60a7fb16a38d9b41&=&format=webp&quality=lossless&width=1768&height=841" width="100%" style="border-radius:8px;">
       <p><b>20. Freguesias</b><br><sub>Listagem de freguesias.</sub></p>
     </td>
     <td width="33.3%" align="center" valign="top">
-      <img src="" width="100%" style="border-radius:8px;">
+      <img src="https://media.discordapp.net/attachments/1487605066327130332/1487617034681454603/22.png?ex=69c9cad3&is=69c87953&hm=7798d3ec9196751c46e50e29327923446fd4fa0a51ea544249d2e3967893f5d7&=&format=webp&quality=lossless&width=1768&height=841" width="100%" style="border-radius:8px;">
       <p><b>21. Concelhos</b><br><sub>Listagem de concelhos.</sub></p>
     </td>
   </tr>
   <tr>
     <td width="33.3%" align="center" valign="top">
-      <img src="" width="100%" style="border-radius:8px;">
+      <img src="https://media.discordapp.net/attachments/1487605066327130332/1487617035063263374/23.png?ex=69c9cad3&is=69c87953&hm=b16044bd812e70fd85e95baf0b96a5a27eea3833654a23086f389051acc4f544&=&format=webp&quality=lossless&width=1768&height=838" width="100%" style="border-radius:8px;">
       <p><b>22. Empresas</b><br><sub>Entidades prestadoras de serviço.</sub></p>
     </td>
   </tr>
