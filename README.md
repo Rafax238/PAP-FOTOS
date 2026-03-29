@@ -36,7 +36,6 @@ O **Cidadão+** é uma plataforma web inovadora concebida para estreitar a liga�
       <img src="https://media.discordapp.net/attachments/1487605066327130332/1487608611709517934/3.png?ex=69c9c2fb&is=69c8717b&hm=5ae1411d32250e1261f0da536809108e7a0d255053afec52fbf8683c0401e2ef&=&format=webp&quality=lossless" width="100%" style="border-radius:10px;">
       <p><b>03. Registo</b><br><sub>Formulário de adesão à plataforma.</sub></p>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 </details>
@@ -49,13 +48,17 @@ O **Cidadão+** é uma plataforma web inovadora concebida para estreitar a liga�
 
 <table border="0">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="33.3%" align="center" valign="top">
       <img src="https://media.discordapp.net/attachments/1487605066327130332/1487608612078751824/4.png?ex=69c9c2fb&is=69c8717b&hm=d6a7b96a678fad2a84bdcd490adb1c032d2a8e2e330ee75cd8d48f70aa64476c&=&format=webp&quality=lossless" width="100%" style="border-radius:10px;">
       <p><b>04. Recuperação</b><br><sub>Solicitação de nova senha.</sub></p>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="33.3%" align="center" valign="top">
       <img src="https://media.discordapp.net/attachments/1487605066327130332/1487608612410097838/5.png?ex=69c9c2fb&is=69c8717b&hm=3e5e1f62f6535e6481b6a2ebd9eb20f7f52015c1c53e91289611a9730e2f2f82&=&format=webp&quality=lossless" width="100%" style="border-radius:10px;">
       <p><b>05. E-mail de Redefinição</b><br><sub>Notificação enviada ao utilizador.</sub></p>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <img src="https://media.discordapp.net/attachments/1487605066327130332/1487608612410097838/5.png?ex=69c9c2fb&is=69c8717b&hm=3e5e1f62f6535e6481b6a2ebd9eb20f7f52015c1c53e91289611a9730e2f2f82&=&format=webp&quality=lossless" width="100%" style="border-radius:10px;">
+      <p><b>08. E-mail de Redefinição</b><br><sub>Link para Redifinir Senha.</sub></p>
     </td>
   </tr>
 </table>
