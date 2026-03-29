@@ -22,17 +22,17 @@ O **Cidadão+** é uma plataforma web inovadora concebida para estreitar a liga�
 
 <table border="0">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="33.3%" align="center" valign="top">
       <img src="https://media.discordapp.net/attachments/1487605066327130332/1487616902690766979/1.png?ex=69c9cab4&is=69c87934&hm=d34e6763c6e576aac792f43978257822dd96d57f38cd8066848092832ab92f90&=&format=webp&quality=lossless&width=1768&height=840" width="100%" style="border-radius:10px;">
       <p><b>01. Página Inicial</b><br><sub>Landing page informativa.</sub></p>
     </td>
-    <td width="50%" align="center" valign="top">
+    <td width="33.3%" align="center" valign="top">
       <img src="https://media.discordapp.net/attachments/1487605066327130332/1487616903336951920/2.png?ex=69c9cab4&is=69c87934&hm=ddf72e755dde587c42b046cb4a92429cc60aaf7e80b63f7b9b6ea1b2068da5c6&=&format=webp&quality=lossless&width=1768&height=840" width="100%" style="border-radius:10px;">
       <p><b>02. Login</b><br><sub>Autenticação de utilizadores.</sub></p>
     </td>
   </tr>
   <tr>
-    <td width="100%" align="center" valign="top">
+    <td width="33.3%" align="center" valign="top">
       <img src="https://media.discordapp.net/attachments/1487605066327130332/1487616904024555651/3.png?ex=69c9cab4&is=69c87934&hm=a614ceff09a48d910178d34f6c66e59458bb921ad4984b282cca082e9fec99f9&=&format=webp&quality=lossless&width=1768&height=838" width="100%" style="border-radius:10px;">
       <p><b>03. Registo</b><br><sub>Formulário de adesão à plataforma.</sub></p>
     </td>
