@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1487605066327130332/1487605066725855372/Logo.png?ex=69c9bfae&is=69c86e2e&hm=4d8029cbfabcd2d130d61ae9dfffb20156e44e38771fa1a68cee962130e2827c&" alt="Cidadão+ Logótipo Grande" width="200">
+  <img src="https://media.discordapp.net/attachments/1171448609405943819/1487516944725966982/LogoSemFundo.png?ex=69c96d9c&is=69c81c1c&hm=d6ed4df3bde8dd577d86f25ae81bd0094856390955a75946dc763cac3c012f99&=&format=webp&quality=lossless" alt="Cidadão+ Logótipo Grande" width="200">
   <br>
   <h1>Cidadão+</h1>
   <p><i>A aproximar os munícipes da administração pública.</i></p>
