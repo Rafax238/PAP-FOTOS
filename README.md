@@ -32,7 +32,7 @@ O **Cidadão+** é uma plataforma web inovadora concebida para estreitar a liga�
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="100%" align="center" valign="top">
       <img src="https://media.discordapp.net/attachments/1487605066327130332/1487616904024555651/3.png?ex=69c9cab4&is=69c87934&hm=a614ceff09a48d910178d34f6c66e59458bb921ad4984b282cca082e9fec99f9&=&format=webp&quality=lossless&width=1768&height=838" width="100%" style="border-radius:10px;">
       <p><b>03. Registo</b><br><sub>Formulário de adesão à plataforma.</sub></p>
     </td>
