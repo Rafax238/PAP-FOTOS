@@ -1,4 +1,4 @@
-# <img src="![\[LINK_PARA_A_TUA_LOGO\]](https://cdn.discordapp.com/attachments/1487605066327130332/1487605066725855372/Logo.png?ex=69c9bfae&is=69c86e2e&hm=4d8029cbfabcd2d130d61ae9dfffb20156e44e38771fa1a68cee962130e2827c&)" alt="Cidadão+ Logo" width="50" valign="middle"> Cidadão+ — Gestão Urbana Inteligente
+# <img src="https://cdn.discordapp.com/attachments/1487605066327130332/1487605066725855372/Logo.png?ex=69c9bfae&is=69c86e2e&hm=4d8029cbfabcd2d130d61ae9dfffb20156e44e38771fa1a68cee962130e2827c&" alt="Cidadão+ Logo" width="50" valign="middle"> Cidadão+ — Gestão Urbana Inteligente
 
 > **Projeto de Aptidão Profissional (PAP)**
 > Curso Técnico de Gestão e Programação de Sistemas Informáticos • **2026**
