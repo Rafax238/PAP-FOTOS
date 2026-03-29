@@ -1,7 +1,16 @@
-# 🏙️ Cidadão+ — Gestão Urbana Inteligente
+# <img src="![\[LINK_PARA_A_TUA_LOGO\]](https://cdn.discordapp.com/attachments/1487605066327130332/1487605066725855372/Logo.png?ex=69c9bfae&is=69c86e2e&hm=4d8029cbfabcd2d130d61ae9dfffb20156e44e38771fa1a68cee962130e2827c&)" alt="Cidadão+ Logo" width="50" valign="middle"> Cidadão+ — Gestão Urbana Inteligente
 
 > **Projeto de Aptidão Profissional (PAP)**
 > Curso Técnico de Gestão e Programação de Sistemas Informáticos • **2026**
+
+---
+
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/1487605066327130332/1487605066725855372/Logo.png?ex=69c9bfae&is=69c86e2e&hm=4d8029cbfabcd2d130d61ae9dfffb20156e44e38771fa1a68cee962130e2827c&" alt="Cidadão+ Logótipo Grande" width="200">
+  <br>
+  <h1>Cidadão+</h1>
+  <p><i>A aproximar os munícipes da administração pública.</i></p>
+</div>
 
 ---
 
@@ -43,7 +52,7 @@ Abaixo, apresentamos o fluxo visual da plataforma, organizado por módulos funci
 ### 🔐 Módulo 1: Acesso e Registo
 *A porta de entrada para a cidadania digital. Interface intuitiva para autenticação e criação de novas contas.*
 
-| ![01. Página Inicial](https://media.discordapp.net/attachments/1487605066327130332/1487616902690766979/1.png?format=webp&quality=lossless&width=800) | ![02. Login](https://media.discordapp.net/attachments/1487605066327130332/1487616903336951920/2.png?format=webp&quality=lossless&width=800) | ![03. Registo](https://media.discordapp.net/attachments/1487605066327130332/1487616904024555651/3.png?format=webp&quality=lossless&width=800) |
+| ![01. Página Inicial](https://media.discordapp.net/attachments/1487605066327130332/1487616902690766979/1.png?ex=69c9cab4&is=69c87934&hm=d34e6763c6e576aac792f43978257822dd96d57f38cd8066848092832ab92f90&=&format=webp&quality=lossless&width=1768&height=840) | ![02. Login](https://media.discordapp.net/attachments/1487605066327130332/1487616903336951920/2.png?ex=69c9cab4&is=69c87934&hm=ddf72e755dde587c42b046cb4a92429cc60aaf7e80b63f7b9b6ea1b2068da5c6&=&format=webp&quality=lossless&width=1768&height=840) | ![03. Registo](https://media.discordapp.net/attachments/1487605066327130332/1487616904024555651/3.png?ex=69c9cab4&is=69c87934&hm=a614ceff09a48d910178d34f6c66e59458bb921ad4984b282cca082e9fec99f9&=&format=webp&quality=lossless&width=1768&height=838) |
 | :---: | :---: | :---: |
 | **01. Página Inicial**<br>Landing page informativa e de boas-vindas. | **02. Login**<br>Interface de autenticação segura. | **03. Registo**<br>Formulário de adesão para novos cidadãos. |
 
