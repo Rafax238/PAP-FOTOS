@@ -80,7 +80,7 @@ A aplicação permite ao cidadão **reportar, monitorizar e acompanhar ocorrênc
 | :---: | :---: | :---: | :---: |
 | Dashboard | Utilizadores | Editar User | Editar Dados |
 
-| ![](./assets/images/module-4-admin/17-issues.png) | ![](./assets/images/module-4-admin/18-issue-types.png) |
+| ![](./assets/images/module-4-admin/17-report.png) | ![](./assets/images/module-4-admin/18-occurrences.png) |
 | :---: | :---: |
 | Ocorrências | Tipos |
 
