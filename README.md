@@ -1,4 +1,4 @@
-# <img src="./assets/logo/logo.png" width="50" valign="middle"> Cidadão+ — Gestão Urbana Inteligente
+# <img src="./assets/images/Logo.png" width="50" valign="middle"> Cidadão+ — Gestão Urbana Inteligente
 
 > **Projeto de Aptidão Profissional (PAP)**  
 > Curso Técnico de Gestão e Programação de Sistemas Informáticos • **2026**
@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img src="./assets/logo/logo.png" width="200">
+  <img src="./assets/images/Logo.png" width="200">
   <br>
   <h1>Cidadão+</h1>
   <p><i>A aproximar os munícipes da administração pública.</i></p>
