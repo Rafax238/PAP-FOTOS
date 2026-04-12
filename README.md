@@ -48,7 +48,7 @@ A aplicação permite ao cidadão **reportar, monitorizar e acompanhar ocorrênc
 
 ### 🔐 Módulo 1: Acesso e Registo
 
-| ![](./assets/screenshots/module-1-auth/01-home.png) | ![](./assets/screenshots/module-1-auth/02-login.png) | ![](./assets/screenshots/module-1-auth/03-register.png) |
+| ![](./assets/images/module-1-auth/01-home.png) | ![](./assets/images/module-1-auth/02-login.png) | ![](./assets/images/module-1-auth/03-register.png) |
 | :---: | :---: | :---: |
 | Página Inicial | Login | Registo |
 
@@ -56,11 +56,11 @@ A aplicação permite ao cidadão **reportar, monitorizar e acompanhar ocorrênc
 
 ### 🛡️ Módulo 2: Segurança
 
-| ![](./assets/screenshots/module-2-security/04-password-reset.png) | ![](./assets/screenshots/module-2-security/05-email-reset.png) | ![](./assets/screenshots/module-2-security/06-new-password.png) |
+| ![](./assets/images/module-2-security/04-password-reset.png) | ![](./assets/images/module-2-security/05-email-reset.png) | ![](./assets/images/module-2-security/06-new-password.png) |
 | :---: | :---: | :---: |
 | Recuperação | Email | Nova Password |
 
-| ![](./assets/screenshots/module-2-security/07-2fa-verification.png) | ![](./assets/screenshots/module-2-security/08-2fa-input.png) | ![](./assets/screenshots/module-2-security/09-2fa-email-token.png) |
+| ![](./assets/images/module-2-security/07-2fa-verification.png) | ![](./assets/images/module-2-security/08-2fa-input.png) | ![](./assets/images/module-2-security/09-2fa-email-token.png) |
 | :---: | :---: | :---: |
 | 2FA | Código | Token |
 
@@ -68,7 +68,7 @@ A aplicação permite ao cidadão **reportar, monitorizar e acompanhar ocorrênc
 
 ### 🙋‍♂️ Módulo 3: Cidadão
 
-| ![](./assets/screenshots/module-3-citizen/10-report-issue.png) | ![](./assets/screenshots/module-3-citizen/11-user-profile.png) | ![](./assets/screenshots/module-3-citizen/12-dashboard.png) |
+| ![](./assets/images/module-3-citizen/10-report-issue.png) | ![](./assets/images/module-3-citizen/11-user-profile.png) | ![](./assets/images/module-3-citizen/12-dashboard.png) |
 | :---: | :---: | :---: |
 | Reportar | Perfil | Dashboard |
 
@@ -76,15 +76,15 @@ A aplicação permite ao cidadão **reportar, monitorizar e acompanhar ocorrênc
 
 ### ⚙️ Módulo 4: Admin
 
-| ![](./assets/screenshots/module-4-admin/13-admin-dashboard.png) | ![](./assets/screenshots/module-4-admin/14-user-management.png) | ![](./assets/screenshots/module-4-admin/15-edit-user.png) | ![](./assets/screenshots/module-4-admin/16-edit-data.png) |
+| ![](./assets/images/module-4-admin/13-admin-dashboard.png) | ![](./assets/images/module-4-admin/14-user-management.png) | ![](./assets/images/module-4-admin/15-edit-user.png) | ![](./assets/images/module-4-admin/16-edit-data.png) |
 | :---: | :---: | :---: | :---: |
 | Dashboard | Utilizadores | Editar User | Editar Dados |
 
-| ![](./assets/screenshots/module-4-admin/17-issues.png) | ![](./assets/screenshots/module-4-admin/18-issue-types.png) |
+| ![](./assets/images/module-4-admin/17-issues.png) | ![](./assets/images/module-4-admin/18-issue-types.png) |
 | :---: | :---: |
 | Ocorrências | Tipos |
 
-| ![](./assets/screenshots/module-4-admin/20-parishes.png) | ![](./assets/screenshots/module-4-admin/21-municipalities.png) | ![](./assets/screenshots/module-4-admin/22-companies.png) |
+| ![](./assets/images/module-4-admin/20-parishes.png) | ![](./assets/images/module-4-admin/21-municipalities.png) | ![](./assets/images/module-4-admin/22-companies.png) |
 | :---: | :---: | :---: |
 | Freguesias | Concelhos | Empresas |
 
